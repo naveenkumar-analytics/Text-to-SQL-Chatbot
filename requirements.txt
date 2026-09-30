@@ -1,1 +1,8 @@
-
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
